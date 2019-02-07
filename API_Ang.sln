@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Ang", "API_Ang\API_Ang.csproj", "{94505227-2885-495A-89ED-C49F9B365B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Ang_DAL", "API_Ang_DAL\API_Ang_DAL.csproj", "{D5A62F3A-CEC5-4642-A2E0-1BEFF4B8F228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Ang_BLL", "API_Ang_BLL\API_Ang_BLL.csproj", "{D91F0DA2-4019-4887-9FA9-88D45E1DCF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94505227-2885-495A-89ED-C49F9B365B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94505227-2885-495A-89ED-C49F9B365B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94505227-2885-495A-89ED-C49F9B365B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94505227-2885-495A-89ED-C49F9B365B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A62F3A-CEC5-4642-A2E0-1BEFF4B8F228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A62F3A-CEC5-4642-A2E0-1BEFF4B8F228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A62F3A-CEC5-4642-A2E0-1BEFF4B8F228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A62F3A-CEC5-4642-A2E0-1BEFF4B8F228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91F0DA2-4019-4887-9FA9-88D45E1DCF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91F0DA2-4019-4887-9FA9-88D45E1DCF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91F0DA2-4019-4887-9FA9-88D45E1DCF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91F0DA2-4019-4887-9FA9-88D45E1DCF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0447EE-7F0B-4600-B7AA-EAF63B0783CD}
+	EndGlobalSection
+EndGlobal
